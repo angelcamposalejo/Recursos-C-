@@ -1,0 +1,9 @@
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\bin\Debug\ProgressBarAsyncTask.exe.config
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\bin\Debug\ProgressBarAsyncTask.exe
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\bin\Debug\ProgressBarAsyncTask.pdb
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\obj\Debug\ProgressBarAsyncTask.csprojResolveAssemblyReference.cache
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\obj\Debug\ProgressBarAsyncTask.Properties.Resources.resources
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\obj\Debug\ProgressBarAsyncTask.csproj.GenerateResource.Cache
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\obj\Debug\ProgressBarAsyncTask.exe
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\obj\Debug\ProgressBarAsyncTask.pdb
+C:\Users\angel\Documents\ejercicios y bd\Material\ProgressBar\ProgressBarAsyncTask\ProgressBarAsyncTask\obj\Debug\ProgressBarAsyncTask.ProgressBarAsync.resources
